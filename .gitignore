@@ -2,3 +2,177 @@ _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+<!DOCTYPE html>
+<html lang="pt-BR">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title> ESTÁGIO Prova de seleção </title>
+        <link href="style.css" rel="stylesheet" type="text/css"/>
+    </head>
+
+    <body>
+        <div id="geral">
+            <div id="topo">
+            <div id="logo"><a href="#"><img src="_Imagens/logo.png" alt=""/></a></div>
+            <ul id="menuTopo">
+                <li><a href="#" class="menu"> Encontre uma concessionária</a></li>
+                <li><a href="#" class="menu"> Fale Conosco</a></li>
+                <li><a href="#"><img src="_Imagens/Grupo 31.png" alt=""/></a></li>
+                <!--<li><a href="#">.</a></li>-->
+            </ul>
+            </div>
+            <div id="banner"><img src="_Imagens/Retângulo1.png" alt=""/>
+                <div id="infoBanner">
+                <h1><img src="_Imagens/Grupo88.png" alt=""/></h1>
+                <p><h1>A EMOÇÃO DE DIRIGIR LEVA VOCÊ MAIS LONGE   </h1></p>
+                </div>
+            </div>
+            <div id="barraMeio" style="background-image: url(_Imagens/juntosi.png); background-repeat:no-repeat; width: 1024px; height: 400px; margin-left: 350px;"></div>
+
+                 
+                 
+                
+                 <div id="barraMeio1" style="background-image: url(_Imagens/Retângulo16.png); background-repeat:no-repeat; width: 1024px; height: 40px; margin-left:120px;"></div>
+                 <div id="barraMeio2" style="background-image: url(_Imagens/Retângulo19.png); background-repeat:no-repeat; width: 1024px; height: 40px; margin-left:120px;"></div>
+                 <div id="barraMeio3" style="background-image: url(_Imagens/Retângulo21.png); background-repeat:no-repeat; width: 1024px; height: 0px; margin-left:120px;"></div>
+                
+            
+            <div id="conteudo">
+                <p class="fonteBranco14">
+                <p>O novo Civic Geração 10 traz um desing único mudando a categoria de sedãs para sempre. Ele garante a </p>
+                <p>melhor dirigibilidade com o máximo em sofisticação e conforto, atribuído por seu desing interno e </p>
+                </p>
+                
+            </div>
+            <div id="boxs">
+                <div id="boxa">
+                    <img src="_Imagens/Grupo74.png" alt="" />
+                </div>
+                <div id="boxb">
+                    <div id="boxb" style="background-image: url(_Imagens/accord.png); background-repeat:no-repeat; width:200px; height:2062px; margin-left:120px;"></div>
+                    
+                    <!--<img src="_Imagens/accord.png" alt="" />--> 
+                </div>
+                <div id="boxc">
+                    <div id="boxc" style="background-image: url(_Imagens/city.png); background-repeat:no-repeat; width:200px; height:200px; margin-left:431px;"></div>
+                    
+                    <!--<img src="_Imagens/city.png" alt="" />-->
+                </div>
+                <div id="boxd">
+                    <div id="boxd" style="background-image: url(_Imagens/fit_2018.png); background-repeat:no-repeat; width:200px; height:200px; margin-left:741px;"></div>
+                    
+                    <!--<img src="_Imagens/fit_2018.png" alt="" />--> 
+                </div>
+
+                <!--
+                <div id="boxe">
+                  <div id="boxe" style="background-image: url(_Imagens/textoaccord.png); background-repeat:no-repeat; width:200px; height:600px; margin-left:120px;"></div>
+                </div>
+                <div id="boxf">
+                  <div id="boxf" style="background-image: url(_Imagens/textocity.png); background-repeat:no-repeat; width:200px; height:200px; margin-left:431px;"></div> 
+                </div>
+                <div id="boxg">
+                  <div id="boxg" style="background-image: url(_Imagens/textofit.png); background-repeat:no-repeat; width:200px; height:200px; margin-left:741px;"></div>
+                </div> 
+                <div id="boxh">
+                    <div id="boxh" style="background-image: url(_Imagens/accord.png); background-repeat:no-repeat; width:200px; height:2062px; margin-left:120px;"></div>
+                </div>
+                <div id="boxi">
+                    <div id="boxi" style="background-image: url(_Imagens/city.png); background-repeat:no-repeat; width:200px; height:200px; margin-left:431px;"></div> 
+                </div>
+                <div id="boxj">
+                   <div id="boxj" style="background-image: url(_Imagens/fit_2018.png); background-repeat:no-repeat; width:200px; height:200px; margin-left:741px;"></div>
+                </div> 
+                -->
+
+            </div>
+        </div>
+    <div id="rodape">
+        <div id="infos"></div>
+        <ul id="social">
+            <li>  <a href="#"  id="face" title="Facebook">
+                  </a><img src="_Imagens/face.png" alt="" />
+            </li>
+
+            <li>  <a href="#"  id="cons" title="Contato">
+                  </a><img src="_Imagens/cons.png" alt="" />
+            </li>
+
+            <li>  <a href="#"  id="tel"  title="Telefone">
+                  </a><img src="_Imagens/tel.png" alt="" />
+            </li>
+
+            <li>  <a href="#"  id="fra"  title="Frase">
+                  </a><img src="_Imagens/fra.png" alt="" />
+            </li>
+
+            <li>  <a href="#"  id="logi" title="login">
+                  </a><img src="_Imagens/logi.png" alt="" />
+            </li>
+
+            <li>  <a href="#"  id="omg"  title="Ins OMG">
+                  </a><img src="_Imagens/omg.png" alt="" />
+            </li>
+
+        </ul>
+    </body>
+</html>
+
+@charset "utf-8";
+/* CSS Document*/
+
+body, ul{padding: 0; margin: 0; list-style: none;}
+body{background-color:#FFFFFF ;}
+
+#geral{overflow: hidden;}
+
+#geral #topo{width: 1018px; margin: 0 auto; overflow: hidden; margin-top:25px;}
+#geral #topo #logo, #menuTopo{float: left;}
+#geral #topo #logo{margin-right: 300px; width: 200px;}
+#geral #topo #logo a img{border:0;}
+#geral #topo #menuTopo{overflow: hidden; background: #F5F5F5;}
+#geral #topo #menuTopo li{float: left; padding: 15px 5px 0 5px; height: 50px;}
+#geral #topo #menuTopo li:hover;
+
+#geral #banner{width: 1366px; height:400px; margin: 0 auto; overflow:hidden; background:url(_Imagens/Retângulo1.png) no-repeat center; margin-top:20px;}
+#geral #banner #infoBanner{float: right; margin-top: -385px; margin-right: 410px;}
+
+#geral #barraMeio{height: 600px; background: url(_Imagens/juntosi.png) no-repeat; text-align: center auto; padding: 0px 100px 100px 700px; margin-top:100px;}
+#geral #barraMeio1{height: 20px; background: url(_Imagens/Retângulo16.png) no-repeat; text-align: center; padding: 70px 98px 0 100px; margin-top: -500px;}
+#geral #barraMeio2{height: 20px; background: url(_Imagens/Retângulo19.png) no-repeat; text-align: center; padding: 75px 98px 0 100px;}
+#geral #barraMeio3{height: 20px; background: url(_Imagens/Retângulo21.png) no-repeat; text-align: center; padding: 76px 98px 0 100px;}
+
+#geral #conteudo, boxs{width:1018px; margin:0 auto;}
+#geral #conteudo{overflow: hidden;}
+
+
+
+#geral #conteudo #boxs{color: #000000; overflow: hidden;}
+#geral #conteudo #boxs #boxb, #boxc, #boxd{width:211px; height:179px; float: left; margin-top: -1028px;}
+
+
+/* #geral #conteudo #boxs #boxe, #boxf, #boxg{width:211px; height:179px; float: left; margin-top: -1224px;} */
+
+
+#geral #conteudo #boxs #boxa{width:1366px; height:807px; float:left;}
+
+#rodape{overflow: hidden; width: 1200px; margin: 0 auto; margin-top: 90px;}
+#rodape #infos, #social{float: left;}
+
+#rodape #social{width: 1020px; overflow: hidden; margin-left: 80px;}
+
+#rodape #social li #cons{ width:55px; height:-95px; float: left; margin:5px; margin-top: 40px; margin-left: 70px;}
+#rodape #social li #face{ width:95px; height:-110px; float: left; margin:5px; margin-top: 30px; margin-left: 75px;}
+#rodape #social li #tel{ width:95px; height:25px; float: left; margin:5px; margin-top: 40px; margin-left: 600px;}
+#rodape #social li #fra{ width:95px; height:10px; float: left; margin:5px; margin-top: 40px; margin-left: 300px;}
+#rodape #social li #logi{background-position: 0 -70px; margin-left: -115px; margin-top:-5px;}
+#rodape #social li #omg{background-position: 0 -190px; margin-left: 600px;}
+
+/* fonte */
+.menu:link{font-family: Georgia, 'Times New Roman', Times, serif; color:#000000; text-decoration:none; font-size: 16px;}
+.menu:visited{font-family: Georgia, 'Times New Roman', Times, serif; color:#000000; text-decoration:none; font-size: 16px;}
+.menu:hover{font-family: Georgia, 'Times New Roman', Times, serif; color:#000000; text-decoration:underline; font-size: 16px;}
+ 
+.fonteBranco14{font-family: Georgia, "Times New Roman", Times, serif; font-size:14px; color:#000000;}
